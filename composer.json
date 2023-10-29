@@ -1,0 +1,16 @@
+{
+    "name": "andreas/templatetest",
+    "autoload": {
+        "psr-4": {
+            "TemplateTest\\": "src/"
+        },
+        "files": ["./src/templatefunctions.php"]
+    },
+    "authors": [
+        {
+            "name": "Andreas Fridlund",
+            "email": "afridlund85@gmail.com"
+        }
+    ],
+    "require": {}
+}
